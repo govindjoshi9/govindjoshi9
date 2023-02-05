@@ -13,7 +13,4 @@
 <p align="left">
 
 
-<h3 align="left">Languages and Tools:</h3>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=govindjoshi9&" alt="govindjoshi9" /></p>
