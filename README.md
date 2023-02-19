@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Govind Prasad</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software developer </h3>
 
 - 🔭 I’m currently study on **Full Stack development**
 
