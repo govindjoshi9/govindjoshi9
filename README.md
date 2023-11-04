@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:joshigovind740@gmail.com"><img src="https://img.shields.io/badge/Email-Me%20💌-brightgreen" alt="Email"></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/govind-prasad-439051207/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue" alt="LinkedIn"></a>
 </p>
 
 🌱 I'm on a journey to master **Full Stack development**, diving deep into web and software development.
