@@ -16,5 +16,9 @@
 
 📫 Let's chat or collaborate: Email me at **joshigovind740@gmail.com**. I'm open to discussions, projects, and tech chats.
 
-<h3 align="left">Let's Connect:</h3>
-<p align="left">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=govindjoshi9&show_icons=true&locale=en&layout=compact" alt="govidjoshi9" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=govindjoshi9&show_icons=true&locale=en" alt="harshal2502" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=govindjoshi9&label=Profile%20views&color=0e75b6&style=flat" alt="govindjojshi9" /> </p>
