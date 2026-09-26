@@ -30,9 +30,9 @@
 ```javascript
 const govind = {
   role        : "Full-Stack Developer",
-  location    : "Ahmedabad, India 🇮🇳",
+  location    : "Shamgarh Mandsaur MP, India 🇮🇳",
   experience  : "3+ years",
-  currentWork : "Makcliff Pvt. Lmt.",
+  currentWork : "Makcliff Pvt. Lmt. (remote)",
 
   stack: {
     frontend  : ["React.js", "Next.js", "Tailwind CSS", "Shadcn UI"],
